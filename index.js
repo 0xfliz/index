@@ -1,4 +1,4 @@
-const axios = require('axios');
+const axios = require('axios')
 const ethers = require('ethers');
 const dotenv = require('dotenv');
 const readline = require('readline');
